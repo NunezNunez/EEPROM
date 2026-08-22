@@ -1,8 +1,4 @@
-/**
- Applicant Name:_____ Date:________
- Interview: BitBang 1
- Digitize inc
- ****/
+
 
 #define CS 2
 #define SK 3
